@@ -5,8 +5,8 @@
 %global crate cairo-rs
 
 Name:           rust-%{crate}
-Version:        0.8.0
-Release:        2%{?dist}
+Version:        0.22.0
+Release:        1%{?dist}
 Summary:        Rust bindings for the Cairo library
 
 # Upstream license specification: MIT
